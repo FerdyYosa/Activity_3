@@ -18,6 +18,10 @@
         </activity>
         <activity android:name=".Form"
             android:label="Pertemuan 1"/>
+        <activity android:name=".Activity2"
+            android:label="Activity2"/>
+        <activity android:name=".Activity3"
+            android:label="Activity3"/>
     </application>
 
 </manifest>
